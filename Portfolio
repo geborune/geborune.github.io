@@ -1,1 +1,56 @@
+<!doctype html>
+
+<!-- this is a comment for human! -->
+
+<html lang="en">
+
+  <header>
+    <title>Gebo's Resume</title>
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut" href="favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="name" content:"Gebo's Resume">
+    <meta name="robots" "content=noindex, nofollow">
+      </header>
+  </header>
+    <link rel="stylesheet" href="css/master.css"
+    
+
+  <body>
+    <hr>
+
+    <img src="images/headshot.jpg" alt=" headshot" width="20%">
+
+    <h1>Gebo Rune</h1>
+    <h4>Graphic Design Studio</h4>
+
+    <p>Email: <a href="geborune@creative.com" target="_blank">geborune@creative.com</a></p>
+    <!-- don't post physical address, personal phone number or other personal information on the web! -->
+
+    <h2>Portfolio</h2>
+      <h3>GitHub: <a href="https://github.com/geborune" target="_blank">https://github.com/geborune</a></h3>
+
+  <h2>Courses</h2>
+    <h3>Textual elements of design: fonts, typography and spacing. University of Colorado Boulder - Coursera</h3>
+
+
+    <h2>Professional Experiences</h2>
+
+    <h3>Page producer. About.com </h3>
+    <h4>Remote work</h4>
+    <h5>March 2020 - Present</h5>
+      <ul>
+        <li> Modify pages to comply with brand and SEO guidelines</li>
+        <li> Find images to use as banners on pages</li>
+        <li> Write metadescriptions, titles, subtitles </li>
+      </ul>
+  </body>
+
+  <footer>
+  <hr>
+  <p><a href="index.html">Back to my portal</a><p>
+  </footer>
+
+</html>
 
