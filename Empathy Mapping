@@ -1,0 +1,64 @@
+<!doctype html>
+
+<!-- this is a comment for human! -->
+
+<html lang="en">
+
+  <header>
+    <title>Empathy Mapping With Miro Tutorial</title>
+    <link rel="stylesheet" href="css/master.css">
+    <link rel="FaviconIcon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut" href="favicon.ico" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="name" content:"Empathy Mapping">
+    <meta name="robots" "content=noindex, nofollow">
+      </header>
+  </header>
+    <link rel="stylesheet" href="css/master.css"
+    
+
+  <body>
+    <hr>
+
+    <img src="images/headshot.jpg" alt=" headshot" width="20%">
+
+    <h1>Empathy Mapping/h1>
+    <h4>
+
+</h4>
+Empathy maps are important because they give designers an avenue into the mind of the customer and help them empathize with their experience, desires, and needs.  <br>
+They’re also useful for taking insights you gain from user research, digging deeper, and applying them to find concrete solutions. 
+How do you use persona empathy mapping?</h4>
+
+
+</h4>
+To create an empathy map, start with a direct statement from a customer gleaned from user interviews or direct feedback.  <br>
+From there, you create a constellation of thoughts, feelings, and actions that underly the customer’s statement and help you understand why they made the statement  <br>
+and what their underlying motivations are.
+</h4>
+
+    <p>Email: <a href="geborune@creative.com" target="_blank">geborune@creative.com</a></p>
+    <!-- don't post physical address, personal phone number or other personal information on the web! -->
+
+    <h2>Portfolio</h2>
+    <p>
+ <ul style="list-style-type:none;">
+  <li>Bookcovers</li>
+  <li>Branding</li>
+  <li>Social Media</li>
+   <li>Guides</li>
+   <li>Logos</li>
+</ul> 
+</p>
+
+
+
+  </body>
+
+  <footer>
+  <hr>
+  <p><a href="index.html">Back to my portal</a><p>
+  </footer>
+
+</html>
+
